@@ -11,7 +11,7 @@ Projects at a glance :
 1. B+Tree :
   This project implements parts of the index file organization for the database management system ‘MINIBASE’. Making use of some of the methods provided by the MINIBASE, I have extended the implementation to support -File Indexing Using B+ Tree. 
 
-2.Chat_Application:
+2. Chat_Application:
   A Swing Based GUI App supporting private and group chats . Planning to implement the same application for web using Jersey or Spring MVC
 
 3. DAA Project :
@@ -31,7 +31,5 @@ Projects at a glance :
    3.Uniform Cost Search
 
 7. Token_ring_election:
-  
-  Implementation of Election in a Token Ring 
-  
-  https://en.wikipedia.org/wiki/Token_ring
+   Implementation of Election in a Token Ring 
+   https://en.wikipedia.org/wiki/Token_ring
